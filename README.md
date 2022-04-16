@@ -211,8 +211,3 @@ addEventListener(
 * [bclswl0827](https://github.com/bclswl0827/v2ray-heroku)
 * [yxhit](https://github.com/yxhit)
 * [badafans](https://github.com/badafans/better-cloudflare-ip/tree/20201208)
-
-###
- 
-###V2rayN配置模板链接
- *vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiHquW3seaUueWQjeensCIsDQogICJhZGQiOiAi6Ieq5bex5pS55LyY6YCJSVAiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMjRiNGIxZTEtN2E4OS00NWY2LTg1OGMtMjQyY2Y1M2I1YmRiIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICLoh6rlt7HmlLljbG91ZGZsYXJl5Z+f5ZCN77yI5LiN6KaB5YqgaHR0cHM6Ly/ot5/ln5/lkI3mnIDlkI7nmoQv77yJIiwNCiAgInBhdGgiOiAiL3JheSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICLmraTlpITkuI7kvKroo4Xln5/lkI0oaG9zdCnlrozlhajkuIDmoLciDQp9
